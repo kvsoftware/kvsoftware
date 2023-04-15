@@ -23,12 +23,8 @@ I'm a software developer who is eager and willing to learn and develop Android a
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/kvsoftware" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
 ### Badges
+
 
 <b>My GitHub Stats</b>
 
