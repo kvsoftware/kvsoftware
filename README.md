@@ -9,7 +9,6 @@ I'm a software developer who is eager and willing to learn and develop Android a
 * 🌍  I'm based in Glasgow, Scotland
 * 🖥️  See my portfolio at [Playstore](http://play.google.com/store/apps/developer?id=Kv+Software)
 * ✉️  You can contact me at [kv.android@gmail.com](mailto:kv.android@gmail.com)
-* 🧠  I'm learning Jetpack Compose (Android)
 
 ### Skills
 
